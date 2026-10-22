@@ -4,15 +4,15 @@ This file summarizes character facts. See [Story Bible](../docs/02-story-bible.m
 
 ## Mayor Thomas Wren
 - Role: Mayor of Bellwether; Evelyn's father.
-- 1998 status: Dies in the first fire.
+- 1998 status: Dies in a warehouse fire near the Riverside Industrial Zone late on Sunday, 18 Oct 1998, as inferred from Newspaper 01.
 - Known: Opposed the land-development project after finding discrepancies in its documents.
 - Unknown: Whether the fire was deliberate; whether his death was a targeted killing.
 
 ## Evelyn Wren
 - Role: Thomas's daughter; 19-year-old first-year journalism student in 1998.
-- Goal: Understand her father's death by investigating records and correspondence.
-- Known: Discovers discrepancies and irregularities in correspondence.
-- Unknown: Ultimate fate; exact circumstances of disappearance.
+- Goal: Understand discrepancies in Riverside land records and correspondence irregularities; after her father's death, her inquiry may also address the circumstances of the fire.
+- Known: Her inquiry began before Thomas died, consistent with letters dated 8–17 Oct 1998. She discovers discrepancies and irregularities in correspondence.
+- Unknown: Ultimate fate; exact circumstances and date of disappearance.
 
 ## Mara Ellis
 - Role: Evelyn's close friend.
@@ -22,7 +22,7 @@ This file summarizes character facts. See [Story Bible](../docs/02-story-bible.m
 ## Silas Reed
 - Role: Bellwether postmaster in 1998.
 - Known: Has access to postal records; specified correspondence was held from normal processing.
-- Unknown: Whether he knew the causes of the fires.
+- Unknown: Whether he knew about or had any role in the fires.
 
 ## Beatrice Shaw
 - Role: Former archivist.
